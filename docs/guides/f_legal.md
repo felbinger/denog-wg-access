@@ -16,7 +16,7 @@ gem. [TKG - § 63](https://www.gesetze-im-internet.de/tkg_2021/__63.html)
 
 ## NIS2
 
-## S/PRI
+## Supplier/Partner Requisition Interface (S/PRI)
 
 ## Verkehrsdaten Bestandsauskunft (VDBA)
 gem. [StPO - § 100j](https://www.gesetze-im-internet.de/stpo/__100j.html)
